@@ -9,5 +9,6 @@ public class Main {
         //Yildizlarla_Elmas.g();
         //Atm.h();
         //Ebob_Ekok.i();
+        Palindrom.j();
     }
 }

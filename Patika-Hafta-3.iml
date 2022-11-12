@@ -16,5 +16,6 @@
     <orderEntry type="module" module-name="Yildizlarla-Elmas" />
     <orderEntry type="module" module-name="ATM" />
     <orderEntry type="module" module-name="EBOB-EKOK" />
+    <orderEntry type="module" module-name="Palindrom" />
   </component>
 </module>
