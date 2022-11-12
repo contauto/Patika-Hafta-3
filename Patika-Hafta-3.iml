@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Dordun-Kati" />
+    <orderEntry type="module" module-name="Dort-Bes-Kuvvet" />
+    <orderEntry type="module" module-name="Kombinasyon" />
+    <orderEntry type="module" module-name="Uslu-Sayi" />
+    <orderEntry type="module" module-name="Basamak-Toplam" />
+    <orderEntry type="module" module-name="Harmonik_Seri" />
+    <orderEntry type="module" module-name="Yildizlarla-Elmas" />
+    <orderEntry type="module" module-name="ATM" />
+    <orderEntry type="module" module-name="EBOB-EKOK" />
+  </component>
+</module>

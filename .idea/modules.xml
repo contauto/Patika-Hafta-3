@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basamak-Toplam/Basamak-Toplam.iml" filepath="$PROJECT_DIR$/Basamak-Toplam/Basamak-Toplam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dordun-Kati/Dordun-Kati.iml" filepath="$PROJECT_DIR$/Dordun-Kati/Dordun-Kati.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dort-Bes-Kuvvet/Dort-Bes-Kuvvet.iml" filepath="$PROJECT_DIR$/Dort-Bes-Kuvvet/Dort-Bes-Kuvvet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EBOB-EKOK/EBOB-EKOK.iml" filepath="$PROJECT_DIR$/EBOB-EKOK/EBOB-EKOK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Harmonik_Seri/Harmonik_Seri.iml" filepath="$PROJECT_DIR$/Harmonik_Seri/Harmonik_Seri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kombinasyon/Kombinasyon.iml" filepath="$PROJECT_DIR$/Kombinasyon/Kombinasyon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika-Hafta-3.iml" filepath="$PROJECT_DIR$/Patika-Hafta-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uslu-Sayi/Uslu-Sayi.iml" filepath="$PROJECT_DIR$/Uslu-Sayi/Uslu-Sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yildizlarla-Elmas/Yildizlarla-Elmas.iml" filepath="$PROJECT_DIR$/Yildizlarla-Elmas/Yildizlarla-Elmas.iml" />
+    </modules>
+  </component>
+</project>
