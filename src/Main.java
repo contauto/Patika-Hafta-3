@@ -9,6 +9,11 @@ public class Main {
         //Yildizlarla_Elmas.g();
         //Atm.h();
         //Ebob_Ekok.i();
-        Palindrom.j();
+        //Palindrom.j();
+        //En_Sayi.BiggestAndSmallest();
+        //Perfect_Numbers.Perfect_Number_Finder();
+        //Triangle.Inverse_Triangle();
+        //Prime_Number.Calculator();
+        //Fibonacci.Calculator();
     }
 }

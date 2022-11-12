@@ -17,5 +17,10 @@
     <orderEntry type="module" module-name="ATM" />
     <orderEntry type="module" module-name="EBOB-EKOK" />
     <orderEntry type="module" module-name="Palindrom" />
+    <orderEntry type="module" module-name="En-Sayi" />
+    <orderEntry type="module" module-name="Perfect-Numbers" />
+    <orderEntry type="module" module-name="Inverse" />
+    <orderEntry type="module" module-name="Prime" />
+    <orderEntry type="module" module-name="Fibonacci" />
   </component>
 </module>
