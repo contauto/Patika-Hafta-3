@@ -22,5 +22,8 @@
     <orderEntry type="module" module-name="Inverse" />
     <orderEntry type="module" module-name="Prime" />
     <orderEntry type="module" module-name="Fibonacci" />
+    <orderEntry type="module" module-name="Exponent-Recursive" />
+    <orderEntry type="module" module-name="Recursive-Prime" />
+    <orderEntry type="module" module-name="Recursive" />
   </component>
 </module>

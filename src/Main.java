@@ -15,5 +15,8 @@ public class Main {
         //Triangle.Inverse_Triangle();
         //Prime_Number.Calculator();
         //Fibonacci.Calculator();
+       //System.out.println( Expo.Exponantial(2,6));
+        //System.out.println( Prime.Recursive_Prime(17,16));
+        //Rec.Recursive(21,21,("-"));
     }
 }
